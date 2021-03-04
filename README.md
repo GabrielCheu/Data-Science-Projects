@@ -5,7 +5,7 @@
 </p>
 
 # Felipe Rosa
-<sub>*automation engineer* at AUSI do Brasil</sub>
+<sub>*Automation Engineer* at AUSI do Brasil</sub>
 
 
 **Links:**
