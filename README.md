@@ -9,13 +9,13 @@
 
 
 **Links:**
-* [Blog]
+* [LinkedIn](https://www.linkedin.com/in/felipe-rosa-19975b10b/)
 
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Reserva:**
+* **Analisando os Dados do Airbnb Berlim:** https://bit.ly/3uWUUbz
 
 ---
 
