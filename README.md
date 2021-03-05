@@ -7,13 +7,11 @@
 # Felipe Rosa
 <sub>*Automation Engineer* at AUSI do Brasil</sub>
 
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-rosa-19975b10b/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Analisando os Dados do Airbnb Berlim:** https://bit.ly/3uWUUbz
 
