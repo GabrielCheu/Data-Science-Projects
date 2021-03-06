@@ -6,8 +6,8 @@
 
 # Felipe Rosa
 <sub>*Automation Engineer* at AUSI do Brasil</sub>
-Engenheiro de Automação, trabalho com automação industrial na área de programação a 4 anos, fora demais experiências prévias em diversas outras linguagens e interfaces de programação. Entusiasta de tecnologia, me afeiçoei ao estudo de ciência de dados por meio de pesquisas por curiosidade pessoal.
-Nesta secção estarão dispostas análises de dados referentes ao curso de data science da Sigmoidal, como podem ser conferidos pelos links abaixo
+<sub>Engenheiro de Automação, trabalho com automação industrial na área de programação a 4 anos, fora demais experiências prévias em diversas outras linguagens e interfaces de programação. Entusiasta de tecnologia, me afeiçoei ao estudo de ciência de dados por meio de pesquisas por curiosidade pessoal.
+Nesta secção estarão dispostas análises de dados referentes ao curso de data science da Sigmoidal, como podem ser conferidos pelos links abaixo</sub>
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-rosa-19975b10b/)
 
