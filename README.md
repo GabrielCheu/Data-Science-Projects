@@ -11,6 +11,7 @@
 Nesta secção estarão dispostas análises de dados referentes ao curso de data science da Sigmoidal, como podem ser conferidos pelos links abaixo</sub>
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-rosa-19975b10b/)
+* [Medium] (https://medium.com/@felipepimentelrosa)
 
 
 ## Projetos:
