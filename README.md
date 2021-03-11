@@ -17,7 +17,7 @@ Nesta secção estarão dispostas análises de dados referentes ao curso de data
 ## Projetos:
 
 * **Analisando os Dados do Airbnb Berlim:** https://bit.ly/3uWUUbz
-
+* **Analisando a Violencia do Rio de Janeiro:** https://bit.ly/2OMGLwM
 ---
 
 
