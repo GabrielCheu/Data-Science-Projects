@@ -9,6 +9,7 @@
 
 <sub>Engenheiro de Controle e Automação, trabalho com automação industrial na área de programação a 4 anos, fora demais experiências prévias em diversas outras linguagens e interfaces de programação. Entusiasta de tecnologia, me afeiçoei ao estudo de ciência de dados por meio de pesquisas por curiosidade pessoal.
 Nesta secção estarão dispostas análises de dados referentes ao curso de data science da Sigmoidal, como podem ser conferidos pelos links abaixo</sub>
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-rosa-19975b10b/)
 * [Medium](https://medium.com/@felipepimentelrosa)
