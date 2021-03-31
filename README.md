@@ -20,6 +20,7 @@ Nesta secção estarão dispostas análises de dados referentes ao curso de data
 * **Analisando os Dados do Airbnb Berlim:** https://bit.ly/3uWUUbz
 * **Analisando a Violencia do Rio de Janeiro:** https://bit.ly/2OMGLwM
 * **Panorama do COVID-19:** https://bit.ly/30UNrvX
+* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3m9ugs8
 ---
 
 
