@@ -21,6 +21,7 @@ Nesta secção estarão dispostas análises de dados referentes ao curso de data
 * **Analisando a Violencia do Rio de Janeiro:** https://bit.ly/2OMGLwM
 * **Análise do Panorama do COVID-19 no Mundo:** https://bit.ly/30UNrvX
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3m9ugs8
+* **Churn Prediction para Telecomunicações:** https://bit.ly/3t8vMxl
 ---
 
 
