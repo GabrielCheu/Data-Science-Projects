@@ -23,7 +23,7 @@ Nesta secção estarão dispostas análises de dados referentes ao curso de data
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3m9ugs8
 * **Churn Prediction para Telecomunicações:** https://bit.ly/3g6dCsh
 * **Análise de Risco de Inadimplência:** https://bit.ly/3avTPyW
-* **Preço_de_Imóveis_em_São_Paulo:** https://bit.ly/3xiTLvo
+* **Preço de Imóveis em São Paulo:** https://bit.ly/3xiTLvo
 ---
 
 
