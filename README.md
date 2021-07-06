@@ -24,4 +24,5 @@ Nesta secção estarão dispostas análises de dados referentes ao curso de data
 * **Churn Prediction para Telecomunicações:** https://bit.ly/3g6dCsh
 * **Análise de Risco de Inadimplência:** https://bit.ly/3avTPyW
 * **Preço de Imóveis em São Paulo:** https://bit.ly/3xiTLvo
+* **Classificador de Fake News:** https://bit.ly/3hGeyma
 ---
