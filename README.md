@@ -7,8 +7,8 @@
 # Felipe Rosa
 <sub>*Data Scientist* at StraumannGroup</sub>
 
-<sub>Engenheiro de Controle e Automação, trabalhei com automação industrial na área de programação a 4 anos e hoje trabalho como programador focado em ciência de dados, RPA e IA, fora demais experiências prévias em diversas outras linguagens e interfaces de programação. Entusiasta de tecnologia, me afeiçoei ao estudo de ciência de dados por meio de pesquisas por curiosidade pessoal até efetivamente começar a trabalhar na área.
-Nesta secção estarão dispostas análises de dados referentes ao curso de data science da Sigmoidal, como podem ser conferidos pelos links abaixo</sub>
+<sub>Engenheiro de Controle e Automação, trabalhei com automação industrial na área de programação por 4 anos e hoje trabalho como programador focado em ciência de dados, RPA e IA, fora demais experiências prévias em diversas outras linguagens e interfaces de programação. Entusiasta de tecnologia, me afeiçoei ao estudo de ciência de dados por meio de pesquisas por curiosidade pessoal até efetivamente começar a trabalhar na área.
+Nesta secção estarão dispostas análises de dados e métodos de machine learning, como podem ser conferidos pelos links abaixo</sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-pimentel-rosa-19975b10b/)
